@@ -1,22 +1,22 @@
 {
   "development": {
-    "username": "your_username",
-    "password": "your_password",
-    "database": "ecommerce_db",
+    "username": "app_user",
+    "password": "app_password",
+    "database": "bingle_db",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
-    "username": "your_username",
-    "password": "your_password",
-    "database": "ecommerce_db_test",
+    "username": "app_user",
+    "password": "app_password",
+    "database": "bingle_db_test",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
-    "username": "your_username",
-    "password": "your_password",
-    "database": "ecommerce_db_prod",
+    "username": "app_user",
+    "password": "app_password",
+    "database": "bingle_db_prod",
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
